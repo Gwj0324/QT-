@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>StyleSheet/style.css</file>
+        <file>icon/title.ico</file>
+    </qresource>
+</RCC>
